@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['noobs', 'obs', 'semobs']
+
+roboflow:
+  workspace: infotecpf
+  project: invdnts
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/infotecpf/invdnts/1
