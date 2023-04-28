@@ -6,8 +6,8 @@ Para avanzar en lo que se planea hacer se han recolectado imágnees de algunos e
 
 La organización de este repositorio es la siguiente:
 
-Data: En esta carpeta se tiene la información de las imágenes y etiquetas con los que se entrenará la solución final.
+Data: En esta carpeta se tiene la información de las imágenes, etiquetas con los que se entrenará la solución final y el codigo de la solución.
 
-Documentos_Marco_Teorico: En esta carpeta se tienen los articulos o trabajos que se han explorado y recolectado para realizar el trabajo final. 
+Documentos_Marco_Teorico: En esta carpeta se tienen los articulos o trabajos que se han explorado y recolectado para realizar el trabajo final. Es importante entender que aún no se tiene el trabajo final listo, por lo que el documento no es el final, se sigue trabajando en el trabajo final, tanto en código como en el trabajo escrito. 
 
 Seminarios: En esta carpeta se tienen los trabajos que se han elaborado en los anteriores seminarios.
