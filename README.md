@@ -11,3 +11,5 @@ Data: En esta carpeta se tiene la información de las imágenes, etiquetas con l
 Documentos_Marco_Teorico: En esta carpeta se tienen los articulos o trabajos que se han explorado y recolectado para realizar el trabajo final. Es importante entender que aún no se tiene el trabajo final listo, por lo que el documento no es el final, se sigue trabajando en el trabajo final, tanto en código como en el trabajo escrito. 
 
 Seminarios: En esta carpeta se tienen los trabajos que se han elaborado en los anteriores seminarios.
+
+El video del trabajo final se encuentra en: https://youtu.be/Awhqb8dhZco
