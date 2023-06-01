@@ -1,4 +1,20 @@
-# Proyecto Final
+# Proyecto Final - Aplicación de YOLO para la detección de obstrucciones en espacios comunes de hogares
+
+## Nombre: Héctor Ariel Aragón Oliva
+### correo: cienciasariel@gmail.com
+
+## Revisores
+
+### Revisor 1: Luis Guillermo Ruiz Velázquez 
+### Revisor 2: Tania Aglaé Ramírez del Real
+
+## Entregables:
+
+[Trabajo escrito (versión más reciente en PDF)]([https://pages.github.com/](https://github.com/seminario-proyectos-infotec/Those0234/blob/main/Trabajo%20Final/tss_inftc.pdf)
+[Presentación inicial del trabajo (primera entrega, antes de retroalimentación de los revisores)](https://github.com/seminario-proyectos-infotec/Those0234/blob/main/Seminarios/SeminarioDeProyectosII/PresentaciónProyecto.pptx)
+Presentación Final (Proximamente)
+
+## Descripción del proyecto.
 
 En este espacio se encuentra el desarrollo del proyecto final que se ha venido desarrollando desde hace unos cursos. El proyecto esta relacionado a la aplicación de YOLO, para detectar objetos, esto es, detectar espacios vacios, espacios con obstrucciones y con semi obstrucciones. El objetivo es poder desarrollar esta solución, y que sirva como punto de partida para soluciones mas complejas enfocadas a personas con discapacidad visual. La idea potencial es poder generar una herramienta que permita idnetificar en tiempo real los objetos que pueden representar una obstrucción en el camino de las personas, y eventualmente que permita guiar a las personas en su camino. 
 
