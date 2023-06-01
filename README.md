@@ -10,9 +10,8 @@
 
 ## Entregables:
 
-* [Trabajo escrito (versión más reciente en PDF)](https://pages.github.com/](https://github.com/seminario-proyectos-infotec/Those0234/blob/main/Trabajo%20Final/tss_inftc.pdf)
+* [Trabajo escrito (versión más reciente en PDF)](https://github.com/seminario-proyectos-infotec/Those0234/blob/main/Trabajo%20Final/tss_inftc.pdf)
 * [Presentación inicial del trabajo (primera entrega, antes de retroalimentación de los revisores)](https://github.com/seminario-proyectos-infotec/Those0234/blob/main/Seminarios/SeminarioDeProyectosII/PresentaciónProyecto.pptx)
-
 * Presentación Final (Proximamente)
 
 ## Descripción del proyecto.
